@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 15 for Windows Desktop
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "importerWZ", "importerWZ\importerWZ.csproj", "{9EC0059A-9D6B-4001-A663-AB1843C27C4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EC0059A-9D6B-4001-A663-AB1843C27C4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EC0059A-9D6B-4001-A663-AB1843C27C4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EC0059A-9D6B-4001-A663-AB1843C27C4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EC0059A-9D6B-4001-A663-AB1843C27C4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3598B893-C1F1-4393-A8EB-7A12EDA2154E}
+	EndGlobalSection
+EndGlobal
